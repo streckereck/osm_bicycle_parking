@@ -26,10 +26,10 @@ quality bicycle parking near transit stations.
 The datasets created for this project are available in the following spatial 
 format files, from data acquired on March 24, 2025:
 
-* [bike_parking.gpkg](https://www.dropbox.com/scl/fi/xil05wcxke7sf4k812phf/bike_parking_24March2025.gpkg?rlkey=q24qmsgi60lljezr7qilps6z0&dl=0) 
+* [bike_parking_24March2025.gpkg](https://www.dropbox.com/scl/fi/xil05wcxke7sf4k812phf/bike_parking_24March2025.gpkg?rlkey=q24qmsgi60lljezr7qilps6z0&dl=0) 
 Can-PARK classification of OSM data.
-* [bike_parking_full.gpkg](https://www.dropbox.com/scl/fi/5d97nz29e6ie37isvf469/bike_parking_full_24March2025.gpkg?rlkey=hfh71di5c5pormgvtzgd7lgt9&dl=0) Can-PARK classification of OSM data with all OSM tags.
-* [transit_station_buffers.gpkg](https://www.dropbox.com/scl/fi/usgqfpodl5x8k7v40xirk/transit_station_buffers_24March2025.gpkg?rlkey=u0g6ju78ckdaomce0ywb00rmp&dl=0) Buffers (125m) of transit stations used in analyses.
+* [bike_parking_full_24March2025.gpkg](https://www.dropbox.com/scl/fi/5d97nz29e6ie37isvf469/bike_parking_full_24March2025.gpkg?rlkey=hfh71di5c5pormgvtzgd7lgt9&dl=0) Can-PARK classification of OSM data with all OSM tags.
+* [transit_station_buffers_24March2025.gpkg](https://www.dropbox.com/scl/fi/usgqfpodl5x8k7v40xirk/transit_station_buffers_24March2025.gpkg?rlkey=u0g6ju78ckdaomce0ywb00rmp&dl=0) Buffers (125m) of transit stations used in analyses.
 
 **Attributes**
 
