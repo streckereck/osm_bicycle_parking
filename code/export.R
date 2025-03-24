@@ -10,6 +10,7 @@ bike_parking %>%
          name,
          description,
          can_park_class,
+         near_transit_hub,
          place = name.1) %>%
   st_write("data/bike_parking_24March2025.gpkg")
 

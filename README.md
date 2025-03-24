@@ -42,6 +42,7 @@ Can-PARK classification of OSM data.
   *	2U: Short-term, bike racks, no cover, or cover unknown.
   *	2C: Short-term, bike racks, covered.
   *	3V: Bike valet.
+* **near_transit_hub** True/False - within 125 m of a transit station.
 * **place** Study area name.
 
 Other fields are from OSM - please search the [OSM wiki](https://wiki.openstreetmap.org/wiki/Main_Page) for 
