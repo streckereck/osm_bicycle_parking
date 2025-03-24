@@ -12,12 +12,15 @@ bike_parking %>%
          can_park_class,
          near_transit_hub,
          place = name.1) %>%
-  st_write("data/bike_parking_24March2025.gpkg")
+  st_write("data/bike_parking_24March2025.gpkg",
+           delete_dsn = T)
 
 bike_parking %>%
   rename(place = name.1) %>%
-  st_write("data/bike_parking_full_24March2025.gpkg")
+  st_write("data/bike_parking_full_24March2025.gpkg",
+           delete_dsn = T)
 
 transit_station_buffers %>%
   rename(place = name.1) %>%
-  st_write("data/transit_station_buffers_24March2025.gpkg")
+  st_write("data/transit_station_buffers_24March2025.gpkg",
+           delete_dsn = T)
