@@ -31,7 +31,6 @@ format files, from data acquired on March 24, 2025:
 * [bike_parking_full_24March2025.gpkg](https://www.dropbox.com/scl/fi/5d97nz29e6ie37isvf469/bike_parking_full_24March2025.gpkg?rlkey=hfh71di5c5pormgvtzgd7lgt9&dl=0) 
 (4.5 MB) Can-PARK classification of OSM data with all OSM tags.
 * [transit_station_buffers_24March2025.gpkg](https://www.dropbox.com/scl/fi/usgqfpodl5x8k7v40xirk/transit_station_buffers_24March2025.gpkg?rlkey=u0g6ju78ckdaomce0ywb00rmp&dl=0) 
-
 (2.7 MB) Buffers (125m) of transit stations used in analyses.
 
 **Attributes**
