@@ -63,7 +63,7 @@ Requires the R scripts to be run in the following sequential order:
 polygon boundaries for the study area. Requires 
 [Canada Census CSD and CMA Boundary files](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21), 
 located in the data folder.
-* **dowload_osm.R** Downloads OSM features related to bike parking and transit 
+* **download_osm.R** Downloads OSM features related to bike parking and transit 
 stations.
 * **assign_can_park.R** Assign OSM Can-PARK labels (classify).
 * **intersect_transit.R** Intersect bike parking with transit.
