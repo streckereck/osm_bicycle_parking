@@ -35,10 +35,10 @@ if(visual_checks){
 
 study_cities_bike_parking <- study_cities_bike_parking %>%
   mutate(can_park_class = case_when(
+    valet ~ "3V: Bike valet",
     lockers ~ "1L: Long-term, lockers",
     cover & secured ~ "1S: Long-term, secure",
     corral | cover ~ "2C: Short-term, bike racks, covered",
-    valet ~ "3V: Bike valet",
     T ~ "2U: Short-term, bike racks, no cover, or cover unknown"
   ))
 
